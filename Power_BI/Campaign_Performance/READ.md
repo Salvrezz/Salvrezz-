@@ -169,6 +169,3 @@ Targeted improvements in newsletters, mobile UX, and regional personalization
 represent the highest-impact opportunities for increasing CTR and conversions.
 
 ---
-
-## 📄 License
-This project is intended for internal analytics, reporting, and performance optimization.
