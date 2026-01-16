@@ -4,6 +4,11 @@ This repository contains an analysis of trip data, revenue patterns, customer be
 
 ---
 
+**Screenshots:**  
+![Revenue_Analysis](Revenue_Analysis.png)  
+![Distribution](Distribution.jpg)
+
+
 ## 📑 Table of Contents
 1. [Key Summary](#key-summary)
    - [Trip Purpose Distribution](#trip-purpose-distribution)
@@ -142,9 +147,3 @@ This repository contains an analysis of trip data, revenue patterns, customer be
 
 ---
 
-## **📊 Images / Graphs**
-You can include images like this:
-
-```md
-![Revenue by Day](transport/revenue_day.png)
-![Trip Distribution](transport/trip_distribution.png)
