@@ -5,8 +5,8 @@ This repository contains an analysis of trip data, revenue patterns, customer be
 ---
 
 **Screenshots:**  
-![Revenue_Analysis](Revenue_Analysis.png)  
-![Distribution](Distribution.jpg)
+![Revenue_Analysis](Revenue_Analysis.PNG)  
+![Distribution](Distribution.PNG)
 
 
 ## 📑 Table of Contents
