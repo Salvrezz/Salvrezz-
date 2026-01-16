@@ -6,10 +6,10 @@ This project shows analysis for a taxi company.
 ![Revenue_Analysis](Revenue_Analysis.png)  
 ![Distribution](Distribution.jpg)
 
-**Key Summary:**  
-Trip Purpose Distribution:
-The highest trip purposes are for errands (215 trips) and leisure (205 trips), followed closely by airport transfers and business-related trips.
-Commute trips are the least frequent.
+##**Key Summary:**  
+#Trip Purpose Distribution:
+-The highest trip purposes are for errands (215 trips) and leisure (205 trips), followed closely by airport transfers and business-related trips.
+-Commute trips are the least frequent.
 Revenue Insights:
 By Day of Week: Revenue is highest on Tuesday and declines steadily towards Saturday.
 By Hour of Day: Peak revenue hours seem to fall during mid-day and early evening, with lower revenue during late-night and early-morning hours.
