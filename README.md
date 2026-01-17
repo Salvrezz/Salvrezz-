@@ -67,13 +67,17 @@ Used for:
 ### [Project 2: Email_Campaign_Marketing_Performance_Analysis]
 
 📁 **Campaign_Performance details, images, and notes**  
-➡️ [View the Campaign_Performance_README](Campaign_Performance/README.md)
+➡️ [View the Campaign_Performance_README](Salvrezz/Poer_BI/Campaign_Performance/README.md)
 
 - **Description:** [Created an interactive dashboard for email marketing campaign performance metrics]  
 - **Tools Used:** [PowerBI,DAX]  
 - **Outcome:** [The analysis evaluates email campaign performance to optimize engagement, performance rates, and regional targeting strategies]  
 
 ### [Project 3: Taxi_Transacyion_Data_Analysis]
+
+📁 **Campaign_ details, images, and notes**  
+➡️ [View the Campaign_Performance_README](Salvrezz/Poer_BI/Campaign_Performance/README.md)
+
 - **Description:** [Created an interactive dashboard for transportation performance metrics ]  
 - **Tools Used:** [PowerBI,DAX,POWER QUERY,MSSQL]  
 - **Outcome:** [The analysis identifies trip trends, revenue drivers, customer behavior, and operational opportunities for maximizing taxi service efficiency.]  
