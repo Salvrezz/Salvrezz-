@@ -64,12 +64,12 @@ Used for:
 - **Tools Used:** [PowerBI,DAX,POWER QUERY]  
 - **Outcome:** [To improve hospital management, enhance patient care, optimize resource allocation, and reduce costs]  
 
-### [Project 2: Email Campaign]
+### [Project 2: Email_Campaign_Marketing_Performance]
 - **Description:** [Created an interactive dashboard for email marketing campaign performance metrics]  
 - **Tools Used:** [PowerBI,DAX]  
 - **Outcome:** [The analysis evaluates email campaign performance to optimize engagement, performance rates, and regional targeting strategies]  
 
-### [Project 3: Transportation Insight Dashboard]
+### [Project 3: Transportatio]
 - **Description:** [Created an interactive dashboard for transportation performance metrics ]  
 - **Tools Used:** [PowerBI,DAX,POWER QUERY,MSSQL]  
 - **Outcome:** [The analysis identifies trip trends, revenue drivers, customer behavior, and operational opportunities for maximizing taxi service efficiency.]  
