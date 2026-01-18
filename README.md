@@ -87,12 +87,12 @@ Used for:
 📁 **Taxi_Transaction details, images, and notes**  
 ➡️ [View the Taxi_Transaction_README](Power_BI/Taxi_Transaction/README.md)
 
-- **Description:** [Created an interactive dashboard for transportation performance metrics ]  
+- **Description:** [An interactive dashboard analyzing trip distribution, customer behavior, payment methods, weather impact, and revenue trends by time, location, and distance.]  
 - **Tools Used:** [PowerBI,DAX,POWER QUERY,MSSQL]  
-- **Outcome:** [The analysis identifies trip trends, revenue drivers, customer behavior, and operational opportunities for maximizing taxi service efficiency.]  
+- **Outcome:** [Improved visibility into taxi operations and revenue performance through data-driven insights.]  
 
 ### [Project 5: Supply Chain Analysis]
-- **Description:** [A report of performances for a supply cahin]  
+- **Description:** [Performances report for supply cahin]  
 - **Tools Used:** [PowerBI,DAX, MSSQL]  
 - **Outcome:** [Identify sales, revenue, effective transportation mode distribution])
 - 
