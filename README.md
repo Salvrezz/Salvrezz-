@@ -1,8 +1,8 @@
-# 📊 Data Analytics Portfolio (Excel • Power BI • VBA)
+# 📊 Data Analytics Portfolio (Excel • Power BI • VBA  •   SQL)
 # Izuazu Rock Chibuike 
 
 Welcome to my Data Analytics Portfolio!  
-This repository contains projects built with **Microsoft Excel**, **Power BI**, and **VBA**.  
+This repository contains projects built with **Microsoft Excel**, **Power BI**,**SQL**, and **VBA**.  
 The focus is on data cleaning, automation, analysis, dashboards, and insights.
 
 ---
@@ -96,10 +96,10 @@ Used for:
 📁 **Supply_Chain details, images, and notes**  
 ➡️ [View the Supply_Chain_README](Power_BI/Supply_Chain/README.md)
 
-- **Description:** [Performances report for supply cahin]  
+- **Description:** [Analyzed supply chain performance across SKUs, products, suppliers, and distribution channels.]  
 - **Tools Used:** [PowerBI,DAX, MSSQL]  
-- **Outcome:** [Identify sales, revenue, effective transportation mode distribution])
-- 
+- **Outcome:** [Identified revenue opportunities, reduced defects, and optimized logistics and customer engagement.]
+
 ## 🧠 Skills Demonstrated
 
 - Data Cleaning & Wrangling  
