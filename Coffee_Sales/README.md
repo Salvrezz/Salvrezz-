@@ -1,7 +1,21 @@
 # ☕ Coffee Sales Dashboard — Executive Summary Report
 
-## 📌 Overview
-This dashboard provides a comprehensive analysis of coffee shop sales performance, focusing on revenue, quantity sold, product categories, store locations, time-of-day trends, and monthly growth. It is designed to surface key performance indicators (KPIs), identify revenue drivers, and uncover actionable business insights.
+## 📑 Table of Contents
+1. [Introduction](#-introduction)  
+2. [Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)  
+3. [Sales Performance Overview](#-sales-performance-overview)  
+4. [Product & Category Analysis](#-product--category-analysis)  
+5. [Store Location Performance](#-store-location-performance)  
+6. [Time-Based Sales Trends](#-time-based-sales-trends)  
+7. [Monthly Trend Analysis](#-monthly-trend-analysis)  
+8. [Key Business Insights](#-key-business-insights)  
+9. [Strategic Recommendations](#-strategic-recommendations)  
+10. [Conclusion](#-conclusion)  
+
+---
+
+## 📌 Introduction
+This report summarizes insights derived from the Coffee Sales Dashboard. It presents key performance indicators, sales trends, product and location performance, and actionable business recommendations identified through data analysis.
 
 ---
 
@@ -15,54 +29,49 @@ This dashboard provides a comprehensive analysis of coffee shop sales performanc
 
 ---
 
-## 💰 Sales Performance Summary
-The business generated over **$504K in revenue** from **214K units sold**, reflecting strong customer demand and consistent purchasing behavior. The **$4.69 average transaction value** suggests a high-volume, moderately priced product mix, typical of a successful coffee retail model.
+## 💰 Sales Performance Overview
+The business generated over **$504K in total revenue** from **214K units sold**, reflecting strong overall performance. The **average transaction value of $4.69** highlights a high-volume retail model with consistent customer demand.
 
 ---
 
 ## ☕ Product & Category Analysis
-- **Coffee leads all categories** in both revenue and quantity sold, making it the primary growth driver.
-- **Tea** ranks second, reinforcing strong demand for beverage-based offerings.
-- **Packaged Chocolate and Branded products** are the lowest-performing categories, contributing minimally to total sales.
-- Premium products such as **Sustainably Grown Organic Coffee and specialty chocolate beverages** generate high revenue, indicating customer willingness to pay for quality.
+Coffee is the dominant category, leading both revenue and quantity sold, followed by Tea. Beverage categories significantly outperform packaged goods.  
+Lower-performing categories such as **Packaged Chocolate and Branded items** contribute minimally, while premium and organic products drive higher revenue impact.
 
 ---
 
 ## 📍 Store Location Performance
-- **Astoria** outperforms all other locations in total revenue.
-- **Hell’s Kitchen** shows solid mid-level performance.
-- **Lower Manhattan** trails in sales, suggesting potential differences in traffic, customer mix, or operational efficiency.
+**Astoria** is the highest-performing location in terms of revenue, followed by **Hell’s Kitchen**. **Lower Manhattan** shows comparatively lower performance, indicating potential opportunities for optimization.
 
 ---
 
 ## ⏰ Time-Based Sales Trends
-- **Peak sales occur between 9 AM and 11 AM**, with **10 AM** being the highest sales hour.
-- Morning demand is driven primarily by coffee purchases.
-- Sales decline steadily after the afternoon, with minimal activity in the evening.
+Sales peak during **morning hours (9 AM – 11 AM)**, with **10 AM** recording the highest sales volume. Demand declines steadily throughout the afternoon and evening.
 
 ---
 
 ## 📈 Monthly Trend Analysis
-Sales show a **steady upward trend from January through June**, demonstrating sustained growth in both revenue and quantity sold during the first half of the year.
+Monthly sales show a **consistent upward trend from January to June**, demonstrating sustained growth in both revenue and quantity sold.
 
 ---
 
 ## 🔍 Key Business Insights
-- Morning hours are critical to overall profitability.
-- Beverage categories significantly outperform packaged goods.
-- Premium offerings have a strong impact on revenue.
-- Store performance varies notably by location.
+- Morning sales drive the majority of revenue.
+- Beverage products significantly outperform packaged items.
+- Premium offerings generate strong revenue returns.
+- Store performance varies by location.
 
 ---
 
 ## 💡 Strategic Recommendations
-- Align **staffing, inventory, and production** with morning peak hours.
-- Continue expanding and promoting **high-performing coffee and tea products**.
-- Reassess or bundle **low-performing categories** to improve contribution.
+- Align **staffing and inventory planning** with peak morning demand.
+- Focus marketing efforts on **high-performing beverage products**.
+- Reassess or bundle **low-performing categories** to improve sales.
 - Replicate successful strategies from **Astoria** across other locations.
-- Introduce **targeted promotions during off-peak hours** to drive incremental sales.
+- Introduce **off-peak promotions** to stabilize demand.
 
 ---
 
 ## ✅ Conclusion
-The Coffee Sales Dashboard reveals a strong and growing business driven by morning beverage demand, premium product offerings, and location-specific performance. Leveraging these insights can further optimize operations, enhance customer experience, and sustain revenue growth.
+The Coffee Sales Dashboard delivers clear, actionable insights into sales performance and customer behavior. Leveraging these findings enables data-driven decisions that support operational efficiency and sustained business growth.
+and location-specific performance. Leveraging these insights can further optimize operations, enhance customer experience, and sustain revenue growth.
