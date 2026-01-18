@@ -1,5 +1,12 @@
 # ☕ Coffee Sales Dashboard — Executive Summary Report
 
+
+**Screenshots:**  
+![Pivot_Table](Coffee_Sales_Pivot.PNG)  
+![Coffee_Sales_Dashboard](Coffee_Sales_Dashboard.PNG)
+
+
+
 ## 📑 Table of Contents
 1. [Introduction](#-introduction)  
 2. [Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)  
