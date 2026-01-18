@@ -92,6 +92,10 @@ Used for:
 - **Outcome:** [Improved visibility into taxi operations and revenue performance through data-driven insights.]  
 
 ### [Project 5: Supply Chain Analysis]
+
+📁 **Supply_Chain details, images, and notes**  
+➡️ [View the Supply_Chain_README](Power_BI/Supply_Chain/README.md)
+
 - **Description:** [Performances report for supply cahin]  
 - **Tools Used:** [PowerBI,DAX, MSSQL]  
 - **Outcome:** [Identify sales, revenue, effective transportation mode distribution])
