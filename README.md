@@ -62,7 +62,7 @@ Used for:
 ### [Project 1: Coffee_Sales_Performance_Analysis]
 
 📁 **Coffee_Sales_Performance_Analysis, images, and notes**  
-➡️ [View the Campaign_Performance_README](P/Campaign_Performance/README.md)
+➡️ [View the Coffee_Sales_README](Coffee_Sales/README.md)
 
 - **Description:** [A data analytics dashboard that analyzes coffee shop sales data to track KPIs, identify sales trends, and evaluate product and location performance.]  
 - **Tools Used:** [Excel]  
