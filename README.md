@@ -59,12 +59,21 @@ Used for:
 
 ## 📘 Featured Projects
 
-### [Project 1: Healthcare Data Analysis]
+### [Project 1: Coffee_Sales_Performance_Analysis]
+
+📁 **Coffee_Sales_Performance_Analysis, images, and notes**  
+➡️ [View the Campaign_Performance_README](P/Campaign_Performance/README.md)
+
+- **Description:** [A data analytics dashboard that analyzes coffee shop sales data to track KPIs, identify sales trends, and evaluate product and location performance.]  
+- **Tools Used:** [Excel]  
+- **Outcome:** [The dashboard revealed key revenue drivers, peak sales periods, and high-performing products and locations, enabling data-driven business and operational decisions.]  
+
+### [Project 2: Healthcare Data Analysis]
 - **Description:** [To identify key trends and correlations in hospital admissions, billing, and treatment outcomes]  
 - **Tools Used:** [PowerBI,DAX,POWER QUERY]  
 - **Outcome:** [To improve hospital management, enhance patient care, optimize resource allocation, and reduce costs]  
 
-### [Project 2: Email_Campaign_Marketing_Performance_Analysis]
+### [Project 3: Email_Campaign_Marketing_Performance_Analysis]
 
 📁 **Campaign_Performance details, images, and notes**  
 ➡️ [View the Campaign_Performance_README](Power_BI/Campaign_Performance/README.md)
@@ -73,7 +82,7 @@ Used for:
 - **Tools Used:** [PowerBI,DAX]  
 - **Outcome:** [The analysis evaluates email campaign performance to optimize engagement, performance rates, and regional targeting strategies]  
 
-### [Project 3: Taxi_Transaction_Data_Analysis]
+### [Project 4: Taxi_Transaction_Data_Analysis]
 
 📁 **Taxi_Transaction details, images, and notes**  
 ➡️ [View the Taxi_Transaction_README](Power_BI/Taxi_Transaction/README.md)
@@ -82,8 +91,8 @@ Used for:
 - **Tools Used:** [PowerBI,DAX,POWER QUERY,MSSQL]  
 - **Outcome:** [The analysis identifies trip trends, revenue drivers, customer behavior, and operational opportunities for maximizing taxi service efficiency.]  
 
-### [Project 4: Supply Chain Analysis]
-- **Description:** [A report of performances for a supplycahin]  
+### [Project 5: Supply Chain Analysis]
+- **Description:** [A report of performances for a supply cahin]  
 - **Tools Used:** [PowerBI,DAX, MSSQL]  
 - **Outcome:** [Identify sales, revenue, effective transportation mode distribution])
 - 
