@@ -21,6 +21,8 @@ This repo showcases hands-on analytics projects where I apply:
 - Interactive Power BI visualizations  
 - Data storytelling & reporting  
 
+> **Note:** SQL projects are part of my broader analytics portfolio and can be found in my [SQL Data Analytics Portfolio](https://github.com/Salvrezz/sql_data_analytics_portfolio).
+
 Each project includes documentation, visuals, code, or dashboards depending on the scope.
 
 ---
@@ -49,6 +51,12 @@ Used for:
 - Custom Excel functions  
 - User forms (where applicable)  
 - Report generation  
+
+### **SQL**  
+- Data querying, aggregation, and joins  
+- Database exploration and reporting  
+- Advanced SQL functions for analytics  
+- Projects hosted separately in [SQL Data Analytics Portfolio](https://github.com/salvrezz/sql_data_analytics_portfolio)
 
 ---
 
