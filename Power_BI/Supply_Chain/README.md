@@ -1,5 +1,10 @@
 # Supply Chain Analysis Report
 
+**Screenshots:**  
+![Executive](Executive_Supply.PNG)  
+![Supply](Supply.PNG)  
+
+
 ## Table of Contents
 1. [Key Insights](#key-insights)
    - [Top and Bottom Revenue SKUs](#top-and-bottom-revenue-skus)
