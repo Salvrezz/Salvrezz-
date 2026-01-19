@@ -76,7 +76,7 @@ Used for:
 - **Tools Used:** [Excel]  
 - **Outcome:** [The dashboard revealed key revenue drivers, peak sales periods, and high-performing products and locations, enabling data-driven business and operational decisions.]  
 
-### [Project 2: Healthcare Data Analysis]
+### [Project 2: Healthcare_Data_Analysis]
 - **Description:** [To identify key trends and correlations in hospital admissions, billing, and treatment outcomes]  
 - **Tools Used:** [PowerBI,DAX,POWER QUERY]  
 - **Outcome:** [To improve hospital management, enhance patient care, optimize resource allocation, and reduce costs]  
@@ -99,7 +99,7 @@ Used for:
 - **Tools Used:** [PowerBI,DAX,POWER QUERY,MSSQL]  
 - **Outcome:** [Improved visibility into taxi operations and revenue performance through data-driven insights.]  
 
-### [Project 5: Supply Chain Analysis]
+### [Project 5: Supply_Chain_Analysis]
 
 📁 **Supply_Chain details, images, and notes**  
 ➡️ [View the Supply_Chain_README](Power_BI/Supply_Chain/README.md)
