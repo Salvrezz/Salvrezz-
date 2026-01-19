@@ -90,7 +90,7 @@ Used for:
 - **Tools Used:** [PowerBI,DAX]  
 - **Outcome:** [The analysis evaluates email campaign performance to optimize engagement, performance rates, and regional targeting strategies]  
 
-### [Project 4: Taxi_Transaction_Data_Analysis]
+### [Project 4: Taxi_Transaction_Analysis]
 
 📁 **Taxi_Transaction details, images, and notes**  
 ➡️ [View the Taxi_Transaction_README](Power_BI/Taxi_Transaction/README.md)
