@@ -104,7 +104,7 @@ Used for:
 📁 **Supply_Chain details, images, and notes**  
 ➡️ [View the Supply_Chain_README](Power_BI/Supply_Chain/README.md)
 
-- **Description:** [Analyzed supply chain performance across SKUs, products, suppliers, and distribution channels.]  
+- **Description:** [Analyzed supply chain data to identify inefficiencies, optimize inventory flow, and improve operational performance.]  
 - **Tools Used:** [PowerBI,DAX, MSSQL]  
 - **Outcome:** [Identified revenue opportunities, reduced defects, and optimized logistics and customer engagement.]
 
