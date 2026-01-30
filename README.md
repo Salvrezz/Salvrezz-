@@ -104,8 +104,8 @@ Used for:
 📁 **Supply_Chain details, images, and notes**  
 ➡️ [View the Supply_Chain_README](Power_BI/Supply_Chain/README.md)
 
-- **Description:** [Analyzed supply chain data to identify inefficiencies, optimize inventory flow, and improve operational performance.]  
-- **Tools Used:** [PowerBI,DAX, MSSQL]  
+- **Description:** [Performed supply chain analysis to uncover demand patterns, inventory issues, and process inefficiencies using data-driven insights.]  
+- **Tools Used:** [PowerBI, DAX, MSSQL]  
 - **Outcome:** [Identified revenue opportunities, reduced defects, and optimized logistics and customer engagement.]
 
 ## 🧠 Skills Demonstrated
