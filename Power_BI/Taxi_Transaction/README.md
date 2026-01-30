@@ -147,3 +147,4 @@ This repository contains an analysis of trip data, revenue patterns, customer be
 
 ---
 
+## **Tools Used**: PowerBI, DAX, POWER QUERY, MSSQL
