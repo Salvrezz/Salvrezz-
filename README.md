@@ -72,8 +72,8 @@ Used for:
 📁 **Coffee_Sales_Performance_Analysis, images, and notes**  
 ➡️ [View the Coffee_Sales_README](Coffee_Sales/README.md)
 
-- **Description:** [A data analytics dashboard that analyzes coffee shop sales data to track KPIs, identify sales trends, and evaluate product and location performance.]  
-- **Tools Used:** [Excel]  
+- **Description:** [Conducted a coffee sales analysis to uncover patterns in revenue, product demand, and seasonal performance using data visualization and insights.]  
+- **Tools Used:** [Excel, Pivot Table, Data Visualization]  
 - **Outcome:** [The dashboard revealed key revenue drivers, peak sales periods, and high-performing products and locations, enabling data-driven business and operational decisions.]  
 
 ### [Project 2: Healthcare_Data_Analysis]
