@@ -95,7 +95,7 @@ Used for:
 📁 **Taxi_Transaction details, images, and notes**  
 ➡️ [View the Taxi_Transaction_README](Power_BI/Taxi_Transaction/README.md)
 
-- **Description:** [An interactive dashboard analyzing trip distribution, customer behavior, payment methods, weather impact, and revenue trends by time, location, and distance.]  
+- **Description:** [In this project, I performed an exploratory data analysis on taxi transaction data to examine travel behavior and fare patterns. The analysis involved data cleaning, aggregation, and visualization to identify peak hours, popular trip distances, and factors influencing fare amounts, providing actionable insights into urban transportation trends.]  
 - **Tools Used:** [PowerBI,DAX,POWER QUERY,MSSQL]  
 - **Outcome:** [Improved visibility into taxi operations and revenue performance through data-driven insights.]  
 
