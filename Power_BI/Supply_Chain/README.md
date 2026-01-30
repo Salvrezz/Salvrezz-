@@ -94,3 +94,6 @@
 ### Customer Engagement
 - Investigate why "Unknown" demographics place the most orders.
 - Strategize marketing to target underperforming customer groups effectively.
+
+## Tools Used
+PowerBI, DAX, MSSQL
